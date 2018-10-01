@@ -1,0 +1,9 @@
+model\WindCache.class
+model\WindCacheHashMap.class
+model\Wind.class
+controller\WeatherController.class
+model\WindCacheSimple.class
+model\WindCacheDecorator.class
+service\WindServiceOpenWeatherMap.class
+controller\Application.class
+service\WindService.class
